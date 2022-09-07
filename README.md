@@ -20,5 +20,8 @@
   1. 执行 `npm install` 下载依赖，如果下载失败，请删除 package-lock.json 文件，执行 `npm cache clean --force` 命令，然后重新尝试
   2. 执行 `npm run start`
   3. 启动成功后，端口在9090，默认会跳转到登录页面，账号密码在数据库的 user 表中可见
+  
+  cwk
+  
  
   
