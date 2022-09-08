@@ -6,7 +6,7 @@
 
 
 - server_frontend 是 vue 项目，请使用 WebStorm 之类前端工具打开，请确保已安装 node 和 npm
-- ServerManager 是 springboot 项目，请使用 IDEA 等后端工具打开，确保安装了 MySQL5.x，jdk1.8
+- ServerManager 是 springboot 项目，请使用 IDEA 等后端工具打开，确保安装了 MySQL5.x(19951031)，jdk1.8
 
 
 
