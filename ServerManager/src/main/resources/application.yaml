@@ -19,7 +19,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/server_manager?characterEncoding=utf8&useSSL=false&allowMultiQueries=true
     username: root
-    password: 123456
+    password: 19951031
   devtools:
     restart:
       enabled: true
